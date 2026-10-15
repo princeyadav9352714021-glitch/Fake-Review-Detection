@@ -2,6 +2,9 @@
 
 ReviewLens is a Streamlit app for exploring a trained fake-review text classifier. It predicts whether a review resembles the dataset's **CG** (computer-generated) or **OR** (original) label, and includes a CSV dataset explorer.
 
+---
+![App Demo](FakeReviewDetection.gif)
+---
 ## Requirements
 
 - Python 3.10
